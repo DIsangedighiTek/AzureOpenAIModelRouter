@@ -5,7 +5,7 @@ endpoint = "https://all-open-ai-models.openai.azure.com/"
 model_name = "model-router"
 deployment = "open-ai-model-router-sandbox"
 
-subscription_key = "B6rZfxmhgISekQYhrUThG3ji8esCYEfFdqfKIxXflvStwKOOiXlmJQQJ99CGACHYHv6XJ3w3AAABACOGNdEx"
+subscription_key = "`<your api-key>`"
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
