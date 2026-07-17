@@ -13,8 +13,6 @@ This repository contains a small test client for evaluating prompt behavior agai
 - `pip` package manager
 
 ## Install
-
-```sh
 pip install openai
 
 ## Run
